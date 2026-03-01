@@ -1,0 +1,2 @@
+# Credit-Risk-Modeler-IFRS-9-Stress-Testing-Python-SQL
+Credit risk and regulatory modeling professional building end-to-end PD, LGD and multi-scenario ECL models in Python. Projects cover IFRS 9 compliance, stress testing, ROC/KS validation, backtesting and capital impact dashboards, with clean code and reproducible results for banking use cases. Focused on assumptions and regulator-ready documentation
